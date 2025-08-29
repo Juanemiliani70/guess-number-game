@@ -37,14 +37,7 @@ cd guess-number-tkinter
 - Run the program:
 python adivina_numero.py
 
----
 
--Screenshots:
-
-![Imagen 1](imagenes_juego/imagen_juego1.jpeg)
-![Imagen 2](imagenes_juego/imagen_juego2.jpeg)
-![Imagen 3](imagenes_juego/imagen_juego3.jpeg)
-![Imagen 4](imagenes_juego/imagen_juego4.jpeg)
 
 
 
