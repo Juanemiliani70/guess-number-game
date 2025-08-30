@@ -22,10 +22,10 @@ The goal is to guess a secret number randomly generated between 1 and 100.
 
 ## 🖼 Screenshots
 
-![imagen1](imagenes_juego/imagenes_juego1.jpeg)  
-![imagen2](imagenes_juego/imagenes_juego2.jpeg)  
-![imagen3](imagenes_juego/imagenes_juego3.jpeg)  
-![imagen4](imagenes_juego/imagenes_juego4.jpeg)
+![imagen_juego1](imagenes_juego/imagen_juego1.jpeg)
+![imagen_juego2](imagenes_juego/imagen_juego2.jpeg)
+![imagen_juego3](imagenes_juego/imagen_juego3.jpeg)
+![imagen_juego4](imagenes_juego/imagen_juego4.jpeg)
 
 
 ---
